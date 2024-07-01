@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
       });
       
       const succ = document.querySelector('.btn-success') ;
-      console.log(succ);
+     
       succ.addEventListener('click', function(){
         const name = document.getElementById('name').value;
         const number = document.getElementById('number').value;
