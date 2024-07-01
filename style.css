@@ -183,12 +183,12 @@ footer{
         font-weight: bold;
     }
     .button{
-        height: 20px ;
+        height: 40px ;
         padding: 0px;
     }
     .left-bars{
         width: 100% ;
-        height: 580px;
+        height: 700px;
         position: absolute ;
         left: 0 ;
         top: 0px ;
